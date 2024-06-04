@@ -1,0 +1,24 @@
+.pop{
+  height:8vw;
+  margin-top:1vw;
+  display:flex;
+ 
+  aling-itemns:center;
+}
+
+.pop .campo-texto input{
+  height:1.8vw;
+ background:#F0F0F5;
+ border:none;
+margin-left:0.40vw;
+ width:10vw;
+ border-radius:0.5vw;
+ margin-bottom:0.40vw;
+  
+}
+
+.pop .campo-texto label{
+  font-size:1vw;
+  margin-left:1vw;
+}
+

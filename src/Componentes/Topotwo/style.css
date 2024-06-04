@@ -1,0 +1,47 @@
+
+.topotwo .cabecalhotwo{
+  background:##BBB1D1;
+  width:100vw;
+  height:10vw;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding-left:7.3vw;
+  
+}
+
+.topotwo .cabecalhotwo #logo {
+  width:10vw;
+  height:10vw;
+  margin-top:2vw;
+ 
+}
+
+
+#btvolta {
+width:13vw;
+height:3.9vw;
+font-style: normal;
+font-weight: 400;
+font-size: 1.5vw;
+line-height: 2vw;
+color: #fff;
+background:#000;
+border-radius:0.5vw; 
+cursor:pointer;
+border:2px white  solid;
+margin-right:13vw;
+margin-top:3vw;
+
+
+}
+
+
+.btvoltar {
+  transition-duration: 0.4s;
+}
+
+#btvolta :hover {
+  background-color: #b1b1b1; /* Green */
+  color:black;
+}

@@ -1,0 +1,58 @@
+
+.ocultacao {
+  width:16vw;
+  height:10vw;
+  display:flex;
+  align-items:column;
+  justify-content:space-around;
+  padding-left:7vw;
+  
+ 
+}
+  
+
+.ocultacao #oculta {
+  width:3vw;
+  height:3vw;
+   cursor:pointer;
+/*   margin-left:3vw; */
+  margin-top:4.6vw;
+  
+ 
+}
+
+.ocultacao  p{
+ font-style:normal;
+ font-weight:700;
+ font-size:1.5vw;
+display:flex;
+  margin-top:5.3vw;
+   cursor:pointer;
+  
+
+}
+
+.culta h1{
+  background:#d9d9d9;
+  width:20w;
+  height:2.5vw;
+ font-size:1.3vw;
+border-radius:0.55vw;
+padding-left:1vw;
+  cursor:pointer;
+
+  
+}
+
+
+.culta {
+  width:25vw;
+  height:8vw;
+  justify-content:space-around;
+  margin-top:4vw;
+  
+  
+
+}
+
+

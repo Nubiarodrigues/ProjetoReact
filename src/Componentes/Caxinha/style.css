@@ -1,0 +1,20 @@
+.caxinha{
+  margin-left:55vw;
+  width:20vw;
+  height:13vw;
+  background:#fff;
+  border-radius:0.55vw;
+}
+
+.caxinha .destak p{
+  font-size:1.3vw;
+  text-align: center;
+}
+
+
+.caxinha .destak h1{
+  margin-left:4vw;
+ 
+  font-size:2vw;
+  
+}

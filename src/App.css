@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&family=Oswald:wght@200&display=swap');
+
+.principal{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+*{
+  text-decoration:none;
+ }

@@ -1,0 +1,11 @@
+.quemsomos{
+   width:100vw;
+  height:100vh;
+  background:#BBB1D1;
+  align-items: center;
+  overflow:hidden;
+   left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute;
+}

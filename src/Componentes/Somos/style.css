@@ -1,0 +1,64 @@
+.pag-somos{
+  width:100vw;
+  height:100vh;
+  background:#BBB1D1;
+  overflow:hidden;
+/*   left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute;
+   */
+}
+
+.pag-somos .conteudo-somos{
+  width:76.3vw;
+  height:35.6vw;
+/*   margin-top:1.4vw; */
+  display:flex;
+  background:##BBB1D1; 
+  margin-top:5.3vw;
+}
+
+
+.pag-somos .primeira-coluna-somos h1{
+font-size: 3.3vw;
+line-height:1.5vw;
+margin-left:3vw;
+ 
+}
+
+.pag-somos  .primeira-coluna-somos h2{
+font-size: 3.3vw;
+line-height:1vw;
+text-align: left;
+margin-top:8vw;
+margin-left:3vw;
+}
+
+
+.pag-somos p{
+  width:43vw;
+  height: 1vw;
+  font-weight: 400;
+  font-size: 1.63vw;
+  line-height:2vw;
+  text-shadow: 2px 2px 3px #FFF;
+  margin-left:3vw;
+ 
+  
+}
+.pag-somos .terceira-coluna-somos #sobrenos {
+  width:46vw;
+  height:33vw;
+  margin-top:1vw;
+
+  
+  
+}
+
+
+.pag-somos .terceira-coluna-somos {
+  width:1vw;
+  height:20vw;
+  
+}

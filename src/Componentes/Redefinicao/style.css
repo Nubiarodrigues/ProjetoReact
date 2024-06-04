@@ -1,0 +1,127 @@
+.tudl{
+  width:100%;
+  height:100vh;
+  background:#BBB1D1;
+  align-items:center;
+  overflow-x:hidden;
+  display:flex;
+  flex-direction:column;
+ left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute;
+}
+
+
+.caixa-cadastral{
+  width:43vw;
+  height:20vw;
+  background:#cacaca;
+  border-radius:0.5vw;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-around;
+   margin-left: 1.8vw;
+  margin-top:7vw;
+ 
+}
+
+
+.caixa-cadastral .campo-textl{
+  width:38.3vw;
+  height:32vw;
+  margin-left:1.1vw;
+  display:flex;
+  justify-content:space-around;
+  flex-direction:column;
+  overflow-x:hidden;
+  
+
+}
+
+.caixa-cadastral .campo-textl{
+   font-size:1.3vw; 
+
+}
+
+.caixa-cadastral .campo-textl input{
+ height:2.5vw;
+ background:#F0F0F5;
+ border:none;
+ padding-left:1.04vw;
+ width:calc(100% - 1.04vw);
+ border-radius:0.5vw;
+
+
+}
+
+
+.lado-a-ladol .campo-texto-menorl{
+width:18vw;
+display:flex;
+align-items: center;
+border:1px black solid;
+display:flex;
+justify-content:space-around;
+flex-direction:column;
+
+}
+
+.campo-texto-menorl label{
+ font-size:0.97vw; 
+
+}
+
+
+.lado-a-ladol .campo-texto-menorl input{
+ height:2vw;
+ background:#F0F0F5;
+ border:none;
+ padding-left:1.04vw;
+ width:12vw;
+ border-radius:0.5vw;
+
+}
+
+#btredefinir{
+ border:none;
+ border-radius:0.5vw;
+ color:#fff;
+ background:#000;
+ width:13vw;
+ height:3.1vw;
+margin-left:1.5vw;
+font-style: normal;
+font-weight: 700;
+font-size: 1.1vw;
+line-height: 2vw;
+cursor:pointer;
+
+margin-bottom:0.55vw;
+
+}
+
+.lado-a-ladol{
+  width:38vw;
+  height:5vw;
+  display:flex;
+  justify-content:space-between;
+  
+}
+
+.campo-textol label{
+ font-size:0.97vw; 
+
+}
+
+.btredefinir{
+  transition-duration: 0.4s;
+}
+
+#btredefinir:hover {
+  background-color: #32CD32;
+  color: white;
+}
+
+

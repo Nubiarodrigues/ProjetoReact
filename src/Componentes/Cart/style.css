@@ -1,0 +1,67 @@
+.conteud-geral{
+  width:100vw;
+  height:100vh;
+  background:#BBB1D1;
+  overflow:hidden;
+/*   left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute; */
+  
+}
+
+.conteud-geral .conteudo-sub{
+  width:76.3vw;
+  height:35.6vw;
+  margin-left:5vw;
+  display:flex;
+  background:##BBB1D1; 
+}
+
+
+.conteudo-sub .coluna-um p{
+ margin-top:3vw;
+margin-left:1vw;
+font-size: 2vw;
+line-height:4vw;
+
+ 
+}
+
+
+.conteud-geral .coluna-dois #cartoesjun {
+  margin-top:3vw;
+  margin-left:32vw;
+   width:40vw;
+  height:35vw;
+
+  
+}
+
+
+
+.conteud-geral .coluna-dois{
+  width:38.5vw;
+  height:35vw;
+ 
+}
+
+.conteud-geral .coluna-dois {
+  width: 29.86vw;
+  height: 30.3vw;
+  
+}
+
+div.coluna{
+  white-space: nowrap; 
+  width: 3.5vw; 
+  overflow: hidden; 
+  cursor:pointer;
+ 
+}
+
+div.coluna:hover {
+  overflow: visible;
+  cursor:pointer;
+  
+}
